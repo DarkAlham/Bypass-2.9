@@ -1,0 +1,48 @@
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5460, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5490, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc54a0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc54b0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc54e0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5510, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5530, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5590, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5620, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5640, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5680, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc56f0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5700, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5710, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5770, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc57b0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5af0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xc5c80, "00 00 80 D2 C0 03 5F D6").Modify();
+
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa632800, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa632740, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa6329e0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa632a60, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa632810, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa632720, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa6329b0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa6328d0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa633680, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa632910, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa6327f0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa6328e0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaecc10, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaec500, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaec870, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaecd00, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaec840, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaeca50, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaec5b0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaed1b0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaeb680, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaeb6c0, "00 00 80 D2 C0 03 5F D6").Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xaaeb0c0, "C0 03 5F D6").Modify();
+
+MemoryPatch::createWithHex(OBFUSCATE("libhdmpve.so"), 0x10bea0, "00 00 80 D2 C0 03 5F D6").Modify(); //termination fix
+
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x5262CCC, "00 00 80 D2 C0 03 5F D6").Modify(); //termination fix
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x5562420, "00 00 80 D2 C0 03 5F D6").Modify();//anti datct
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0xa632850, "00 00 80 D2 C0 03 5F D6").Modify();
